@@ -1,0 +1,14 @@
+// overview description file for de_caracas11a.bsp por EJViper
+
+global 
+{
+    ZOOM    2.34
+    ORIGIN    -96     -336     556
+    ROTATED    0
+}
+
+layer 
+{
+    IMAGE    "overviews/de_caracas11a.bmp"
+    HEIGHT    -129
+}

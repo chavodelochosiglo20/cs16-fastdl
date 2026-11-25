@@ -1,0 +1,14 @@
+// overview description file for de_amazonas_beta.bsp
+
+global 
+{
+	ZOOM	1.28
+	ORIGIN	0 -80 -112
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_amazonas_beta.bmp"
+	HEIGHT	-1000
+}
